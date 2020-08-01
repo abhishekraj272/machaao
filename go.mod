@@ -1,4 +1,4 @@
-module machaao
+module github.com/abhishekraj272/machaao-go
 
 go 1.14
 
