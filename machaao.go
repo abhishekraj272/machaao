@@ -1,4 +1,4 @@
-package machaao
+package github.com/abhishekraj272/machaao-go
 
 import (
 	"bytes"
